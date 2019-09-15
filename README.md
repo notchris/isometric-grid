@@ -1,29 +1,12 @@
-# rtc
+# Isometric Grid
 
-## Project setup
-```
-yarn install
-```
+Create an SVG-based isometric grid with Vue.
+(Note: Work in progress)
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+## Installation
 
-### Compiles and minifies for production
-```
-yarn run build
+```bash
+npm install
 ```
 
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Isometric Grid](https://i.imgur.com/2TwzNar.png)
