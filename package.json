@@ -1,5 +1,5 @@
 {
-  "name": "rtc",
+  "name": "isometric-grid",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,8 +8,12 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@hscmap/vue-window": "^2.4.2",
+    "@svgdotjs/svg.js": "^3.0.13",
+    "color": "^3.1.2",
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "vue-color": "^2.7.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
@@ -19,5 +23,14 @@
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "vue-template-compiler": "^2.6.10"
-  }
+  },
+  "description": "Create isometric grids with SVG.",
+  "keywords": [
+    "svg",
+    "isometric",
+    "grid",
+    "vue"
+  ],
+  "author": "notchris",
+  "license": "ISC"
 }
